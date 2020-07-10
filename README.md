@@ -17,4 +17,4 @@ Hit me up wherever:
   <a href ="https://t.me/k5tuck">[Telegram]</a> | 
     <a href ="mailto:kevin.tucker19@gmail.com">[Email]</a> 📫
       
- ->"Make things to change the World" 🌍<-
+ <center>"Make things to change the World" 🌍</center>
