@@ -1,4 +1,4 @@
-# What's Up 👋🏾
+# Well Hello 👋🏾
 
 My name is Kevin Tucker and I'm a future software engineer learning all about **Open Source** and everything startup related :rocket:.
 
@@ -14,9 +14,7 @@ My name is Kevin Tucker and I'm a future software engineer learning all about **
 
 Hit me up wherever:
 <a href="https://www.linkedin.com/in/ktuck18/">[LinkedIn]</a> 💼 | 
-  [Telegram] (https://t.me/k5tuck) | 
+  <a href ="https://t.me/k5tuck">[Telegram]</a> | 
     <a href ="mailto:kevin.tucker19@gmail.com">[Email]</a> 📫
       
-<center>"Make things to change the World" 🌍<center>
-------
-From [Kevin] (https://github.com/k5tuck)
+->"Make things to change the World" 🌍<-
