@@ -1,13 +1,18 @@
 # Well Hello 👋🏾
 
-My name is Kevin Tucker and I'm a future software engineer learning all about **Open Source** and everything startup related :rocket:.
+My name is Kevin Tucker and I'm an aspiring software engineer learning all about:
+**Open Source**
+Video games :games:
+Energy Technology :sun:
+Blockchain
+And everything startup related :rocket:
 
 ## Facts
 - 🌱 I’m currently learning: Javascript and C++
 - 💬 We can talk about all things: **space**, **tech**, **anime**, **medtech**
 - 🔭 I'm currently working on: 
-                                    **My Company Website**
-                                    **Flight Computer & Ground Station**
+                                    **A Blockchain Technology for Game Assets**
+                                    **An Open-World MMO**
                                     
 - ⚡️ Currently using: Python and HTML/CSS
 - 🧔🏾Pronouns: He/Him
