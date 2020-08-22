@@ -1,11 +1,12 @@
 # Well Hello 👋🏾
 
 My name is Kevin Tucker and I'm an aspiring software engineer learning all about:
-**Open Source**
-Video games :games:
-Energy Technology :sun:
-Blockchain
-And everything startup related :rocket:
+
+- **Open Source**
+- Video games :games:
+- Energy Technology :sun:
+- Blockchain
+- And everything startup related :rocket:
 
 ## Facts
 - 🌱 I’m currently learning: Javascript and C++
