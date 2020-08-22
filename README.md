@@ -3,8 +3,8 @@
 My name is Kevin Tucker and I'm an aspiring software engineer learning all about:
 
 - **Open Source**
-- Video games :games:
-- Energy Technology :sun:
+- Video games :boom:
+- Energy Technology :bulb:
 - Blockchain
 - And everything startup related :rocket:
 
