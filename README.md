@@ -6,16 +6,18 @@ My name is Kevin Tucker and I'm an aspiring software engineer learning all about
 - Video games :boom:
 - Energy Technology :bulb:
 - Blockchain :alembic:
+- AI
 - And everything startup related :rocket:
 
 ## Facts
-- 🌱 I’m currently learning: Javascript and C++
+- 🌱 I’m currently learning: HTML/CSS, Javascript and C++
 - 💬 We can talk about all things: **space**, **tech**, **anime**, **medtech**
 - 🔭 I'm currently working on: 
-                                    **A Blockchain Technology for Game Assets**
-                                    **An Open-World MMO**
+                                   **A Blockchain Technology for Game Assets**
+                                    **Flight Software**
+- Currently researching A.I. / Deep Learning Technology
                                     
-- ⚡️ Currently using: Python and HTML/CSS
+- ⚡️ Currently using: Python
 - 🧔🏾Pronouns: He/Him
 
 Hit me up wherever:
