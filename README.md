@@ -1,13 +1,16 @@
-# Well Hello 👋🏾
+# Well Hello 👋🏾 I'm Kevin
 
-My name is Kevin Tucker and I'm an aspiring software engineer learning all about:
+I'm an aspiring software engineer learning all about:
 
 - **Open Source**
 - Video games :boom:
 - Energy Technology :bulb:
 - Blockchain :alembic:
+- Finance :money:
 - AI
 - And everything startup related :rocket:
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=k5tuck&hide=prs&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Facts
 - 🌱 I’m currently learning: HTML/CSS, Javascript and C++
