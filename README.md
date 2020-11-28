@@ -23,8 +23,8 @@ My name is Kevin Tucker [🧔🏾Pronouns: He/Him] and I'm an aspiring software 
 - ⚡️ Currently using: Python
 
 Hit me up whenever:
-<a href="https://www.linkedin.com/in/ktuck18/">[LinkedIn]</a> 💼 | 
-  <a href ="https://t.me/k5tuck">[Telegram]</a> | 
-    <a href ="mailto:kevin.tucker19@gmail.com">[Email]</a> 📫
+<a href="https://www.linkedin.com/in/ktuck18/">[LinkedIn]</a> 💼 |  
+    <a href ="mailto:kevin.tucker19@gmail.com">[Email]</a> 📫 |
+    <a href="https://registry.jsonresume.org/k5tuck">[Resume]</a>
       
  "Make Things That Change The World" 🌍
