@@ -2,12 +2,12 @@
 
 My name is Kevin Tucker [🧔🏾Pronouns: He/Him]. I'm a Software Engineer constantly learning about new tech, like:
 
-- Fin-Tech
-- Everything Space Related :boom:
+- Fin-Tech 💳
+- Everything Space Related :rocket:
 - Energy Technology :bulb:
 - Blockchain :alembic:
-- Artifical Intelligence
-- And everything startup related :rocket:
+- Artifical Intelligence :boom:
+- And everything startup related :moneybag:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=k5tuck&hide=prs&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
