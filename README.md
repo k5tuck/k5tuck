@@ -1,6 +1,6 @@
 # Well Hello There! 👋🏾
 
-My name is Kevin Tucker [🧔🏾Pronouns: He/Him] and I'm a software engineer constantly learning about:
+My name is Kevin Tucker [🧔🏾Pronouns: He/Him]. I'm a Software Engineer constantly learning about new tech, like:
 
 - Fin-Tech
 - Everything Space Related :boom:
