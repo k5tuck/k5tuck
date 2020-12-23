@@ -4,14 +4,16 @@
 
 <h3 align="center">I'm a Software Engineer constantly learning about new tech, like:</h3>
 
-- Fin-Tech 💳
-- Everything Space Related :rocket:
-- Energy Technology :bulb:
-- Blockchain :alembic:
-- Artifical Intelligence :boom:
-- And everything startup related :moneybag:
+<p align="center">
+Fin-Tech 💳<br />
+Everything Space Related :rocket: <br />
+Energy Technology :bulb: <br />
+Blockchain :alembic: <br />
+Artifical Intelligence :boom: <br />
+Startup :moneybag:
+</p>
 <br/>
-<br/>
+
 <h3 align="center">Feel Free to Contact Me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/ktuck18/"><tb><img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px"></tb></tr></a>
