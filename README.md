@@ -5,12 +5,12 @@
 <h3 align="center">I'm a Software Engineer constantly learning about new tech, like:</h3>
 
 <p align="center">
-Fin-Tech 💳<br />
+Fin-Tech :bank: <br />
 Everything Space Related :rocket: <br />
 Energy Technology :bulb: <br />
-Blockchain :alembic: <br />
-Artifical Intelligence :boom: <br />
-Startup :moneybag:
+Medical Tech :hospital: <br />
+Artifical Intelligence :robot: <br />
+Startup 💳
 </p>
 <br/>
 
@@ -40,7 +40,7 @@ Startup :moneybag:
   **Flight Software**
 
 - Currently researching A.I. / Deep Learning Technology
-- ⚡️ Currently Learning: Go and Java
+- ⚡️ Currently Learning: Go and Rust
 
 ### <h2 align="center"> Languages and Tools </h2>
 
