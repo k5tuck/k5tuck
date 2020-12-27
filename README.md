@@ -45,30 +45,31 @@ Startup 💳
 ### <h2 align="center"> Languages and Tools </h2>
 
 <p align="center">
-<tb><a href=#><img src="./svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px"></tb>
-<img src="./svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px"></tb>
 <tr>
+  <tb><img src="./svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px"></tb>
+  <tb><img src="./svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px"></tb>
   <tb><img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:p6x 4px"></tb>
   <tb><img src="svg/dev/languages/go.svg" alt="go" style="vertical-align:top; margin:6px 4px"></tb>
   <tb><img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px"></tb>
   <tb><img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px"></tb>
   <tb><img src="svg/dev/languages/rust.svg" alt="rust" style="vertical-align:top; margin:6px 4px"></tb>
+  <tb><img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px"></tb>
 </tr>
-<tr><tb><img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px"></tb>
-<tb><img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" sanitize=1 style="vertical-align:top; margin:6px 4px"></tb>
-<tb><img src="svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px"></tb>
-<tb><img src="svg/dev/services/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:6px 4px"></tb>
-<tr><tb><img src="svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:6px 4px"></tb>
-<tb><img src="svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px"></tb>
-<tb><img src="svg/dev/misc/security.svg" alt="security" style="vertical-align:top; margin:6px 4px"></tb>
-<tb><img src="svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:6px 4px"></tb></tr>
+<tr>
+  <tb><img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" sanitize=1 style="vertical-align:top; margin:6px 4px"></tb>
+  <tb><img src="svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px"></tb>
+  <tb><img src="svg/dev/services/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:6px 4px"></tb>
+  <tb><img src="svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:6px 4px"></tb>
+  <tb><img src="svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px"></tb>
+  <tb><img src="svg/dev/misc/security.svg" alt="security" style="vertical-align:top; margin:6px 4px"></tb>
+  <tb><img src="svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:6px 4px"></tb>
+</tr>
 <tb><img src="svg/dev/services/azure.svg" alt="azure" style="vertical-align:top; margin:6px 4px"></tb>
 <tb><img src="svg/dev/tools/visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:6px 4px"></tb>
 <tb><img src="svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:10px"></tb>
-<tb><img src="svg/dev/misc/ai.svg" alt="ai" style="vertical-align:top; margin:6px 4px"></tb>
+<tb><img src="svg/dev/misc/ai.svg" alt="ai" style="vertical-align:top; margin:6px 4px"></tb></tr>
 <tb><img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px"></tb>
-<tb><img src="svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px"></tb></tr>
+<tb><img src="svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px"></tb>
 <tb><img src="svg/devices/raspberrypi.svg" alt="raspberrypi" style="vertical-align:top; margin:6px 4px"></tb></tr>
 </p>
-<br> 
 <h3 align="center">"Make Things That Change The World" 🌍</h3>
