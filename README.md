@@ -72,4 +72,5 @@ Startup 💳
 <tb><img src="svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px"></tb>
 <tb><img src="svg/devices/raspberrypi.svg" alt="raspberrypi" style="vertical-align:top; margin:6px 4px"></tb></tr>
 </p>
+<br />
 <h3 align="center">"Make Things That Change The World" 🌍</h3>
