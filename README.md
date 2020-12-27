@@ -51,6 +51,7 @@ Startup 💳
 <tb><img src="svg/dev/languages/go.svg" alt="go" style="vertical-align:top; margin:6px 4px"></tb>
 <tb><img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px"></tb>
 <tb><img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px"></tb>
+<tb><img src="svg/dev/languages/rust.svg" alt="rust" style="vertical-align:top; margin:6px 4px"></tb>
 <tr><tb><img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px"></tb>
 <tb><img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" sanitize=1 style="vertical-align:top; margin:6px 4px"></tb>
 <tr><tb><img src="svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px"></tb>
