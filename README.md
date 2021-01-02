@@ -1,6 +1,7 @@
 <h1 align="center"> Well Hello There! 👋🏾 I'm <a href="https://k5tuck.com">Kevin</a> 🧔🏾</h1>
 
 <p align="center"><tb><img src="svg/pronouns/hehim.svg" alt="he/him" style="vertical-align:top; margin:6px 4px"></tb></tr></p>
+<p align="center"><tb><img  src="https://visitor-badge.glitch.me/badge?page_id=k5tuck.k5tuck"/></tb></p>
 
 <h3 align="center">I'm a Software Engineer constantly learning about new tech, like:</h3>
 
