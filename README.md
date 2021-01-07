@@ -11,7 +11,8 @@ Everything Space Related :rocket: <br />
 Energy Technology :bulb: <br />
 Medical Tech :hospital: <br />
 Artifical Intelligence :robot: <br />
-Startup 💳
+Entrepreneurship/Startups 💳 <br />
+Human Rights and NonProfit Organizations 
 </p>
 <br/>
 
