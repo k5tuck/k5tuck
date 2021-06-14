@@ -36,12 +36,9 @@ Human Rights and NonProfit Organizations
 ## Facts
 
 - 🌱 I currently use: HTML/CSS, Javascript and Python
-- ⚡️ Currently Learning: Go and Rust
-- 💬 We can talk about all things: **space**, **tech**, **anime**, **finance**
-- 🔭 I'm currently working on:  
-  **An Open Source Banking Backend Prototype**  
-  **Cybersecurity Intrusion Prevention System**  
-  **Nonprofit Currency Exchange/Banking App**
+- ⚡️ Currently Learning Everything Pre-med
+- 💬 We can talk about all things: **medical**, **space**, **tech**, **anime**, **finance**
+- 🔭 Currently working on: Studying
 
 - Currently researching A.I. / Deep Learning Technology
 
