@@ -49,10 +49,9 @@ Human Rights and NonProfit Organizations
   <tb><img src="./svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px"></tb>
   <tb><img src="./svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px"></tb>
   <tb><img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:p6x 4px"></tb>
-  <tb><img src="svg/dev/languages/go.svg" alt="go" style="vertical-align:top; margin:6px 4px"></tb>
   <tb><img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px"></tb>
   <tb><img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px"></tb>
-  <tb><img src="svg/dev/languages/rust.svg" alt="rust" style="vertical-align:top; margin:6px 4px"></tb>
+  <tb><img src="svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px"></tb>
   <tb><img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px"></tb>
 </tr>
 <tr>
@@ -60,7 +59,6 @@ Human Rights and NonProfit Organizations
   <tb><img src="svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px"></tb>
   <tb><img src="svg/dev/services/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:6px 4px"></tb>
   <tb><img src="svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:6px 4px"></tb>
-  <tb><img src="svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px"></tb>
   <tb><img src="svg/dev/misc/security.svg" alt="security" style="vertical-align:top; margin:6px 4px"></tb>
   <tb><img src="svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:6px 4px"></tb>
 </tr>
